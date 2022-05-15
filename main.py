@@ -5,7 +5,7 @@ from MusicTelethon.التشغيل import arq
 async def main():
     await call_py.start()
     print("""    ------------------
-   | ميوزك تليثون الان شغال ! |
+   | ميوزك mbc3 الان شغال ! |
     ------------------"""    )
     await idle()
     await arq.close()
