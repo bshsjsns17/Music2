@@ -5,4 +5,4 @@ services:
     environment:
     API_ID: $API_ID
     API_HASH: $API_HASH
-    
+    SESSION: $SESSION
