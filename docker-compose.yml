@@ -7,3 +7,4 @@ services:
     API_HASH: $API_HASH
     SESSION: $SESSION
     HNDLR: $HNDLR
+    SUDO_USERS: $SUDO_USERS
